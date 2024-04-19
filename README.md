@@ -33,3 +33,4 @@ Categorización: Permite organizar eventos y tareas en categorías o etiquetas p
 - Express.js
 
 ### Integraciones
+- Google auth
