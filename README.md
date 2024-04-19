@@ -1,1 +1,2 @@
-# kosmos
+# kosmos 
+🌌
