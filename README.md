@@ -2,9 +2,11 @@
 
 ## Equipo: JEL Team
 
-Integrantes:
+### Integrantes:
 - Eduardo Rodriguez Sanchez
 - Jonathan Arturo Tellez Rosas
 - Luis Alcantar Perez
 - Ahmed Cortes 
 - Maximiliano Ramos
+
+### Descripción:
