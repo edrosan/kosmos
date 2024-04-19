@@ -10,6 +10,10 @@
 - Maximiliano Ramos
 
 ### Descripción:
+JEL team planea desarrrollar una aplicacion con la cual se pueda mejorar la calidad de vida
+de los usuarios, tomando como base la gestion,  
+tener una herramienta diseñada para ayudar a las personas a organizar y gestionar 
+sus actividades, tareas y eventos de manera eficiente, con la ayuda
 
 ### Objetivo del proyecto
 
