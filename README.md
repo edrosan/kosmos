@@ -1,6 +1,6 @@
-# kosmos 🌘
+# kósmos 🌘
 
-##Equipo: JEL Team
+## Equipo: JEL Team
 
 Integrantes:
 Eduardo Rodriguez Sanchez
