@@ -11,8 +11,9 @@
 
 ### Descripción:
 JEL team planea desarrrollar una aplicacion con la cual se pueda mejorar la calidad de vida
-de los usuarios, tomando como base la gestion, tener una herramienta diseñada para ayudar a las personas a organizar y gestionar 
-sus actividades, tareas y eventos de manera eficiente, con la ayuda API de Notion.
+de los usuarios, tomando como base la gestion de tareas y actividades de la manera mas eficiente,
+asismismo proponiendo recomendaciones oportunas en base a las actividades ya registradas, todo esto tomando como
+nucleo la Herramienta de Notion.
 
 ### Objetivo del proyecto
 Mejorar la calidad de vida de las personas, gestionando sus compromisos y actividades y maximizar su productividad tanto a nivel personal como profesional
@@ -24,7 +25,6 @@ Recordatorios: Proporciona la capacidad de establecer recordatorios para eventos
 Categorización: Permite organizar eventos y tareas en categorías o etiquetas personalizadas para facilitar la búsqueda y la gestión. Por ejemplo, categorías como trabajo, personal, salud, etc.
 
 
-
 ### Tenologías
 - API Notion
 - React Js
@@ -33,3 +33,6 @@ Categorización: Permite organizar eventos y tareas en categorías o etiquetas p
 
 ### Integraciones
 - Google auth
+- Clima
+- Sugerencias ChatGPT
+
