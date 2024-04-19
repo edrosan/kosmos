@@ -10,3 +10,16 @@
 - Maximiliano Ramos
 
 ### Descripción:
+
+### Objetivo del proyecto
+
+### Funcionalidades
+
+
+### Tenologías
+- API Notion
+- React Js
+- Tailwind CSS
+- Express.js
+
+### Integraciones
