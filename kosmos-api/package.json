@@ -1,0 +1,20 @@
+{
+  "name": "api-kosmos",
+  "version": "1.0.0",
+  "description": "api kosmos",
+  "author": "JEL",
+  "license": "ISC",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --env-file .env index.js "
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "express": "4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
