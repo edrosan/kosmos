@@ -2,6 +2,9 @@
 
 ## Equipo: JEL Team
 
+[kósmos | JEL](https://jel-kosmos.vercel.app)
+![](https://github.com/edrosan/kosmos/blob/main/kosmosrepo.png)
+
 ### Integrantes:
 - Eduardo Rodriguez Sanchez
 - Jonathan Arturo Tellez Rosas
