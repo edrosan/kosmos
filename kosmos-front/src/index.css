@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Marck Script';
+    src: url("/fonts/MarckScript-Regular.ttf");
+}
