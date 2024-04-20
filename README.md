@@ -10,7 +10,7 @@
 - Jonathan Arturo Tellez Rosas
 - Luis Alcantar Perez
 - Ahmed Cortes 
-- Maximiliano Ramos
+- Max Ramos
 
 ### Descripción:
 JEL team planea desarrrollar una aplicacion con la cual se pueda mejorar la calidad de vida
